@@ -1,2 +1,2 @@
 # cypresstest
-cypresstest automation
+automation cypress
